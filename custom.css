@@ -1,0 +1,38 @@
+.center {
+	overflow: hidden;
+	position: relative;
+	visibility: visible;
+	z-index: auto;
+	height: auto;
+	width: 100%;
+	left: auto;
+	top: auto;
+	right: auto;
+	bottom: auto;
+	text-align: center;
+	vertical-align: middle;
+	display: block;
+	clear: none;
+	float: none;
+}
+.center_image {
+	text-align: center;
+	vertical-align: middle;
+	word-spacing: normal;
+	display: none;
+	height: auto;
+	width: 100%;
+	background-image: url(images/back_image.png);
+}
+.figure {
+ width: 100%;
+}
+.figure img {
+display: block; margin-left: auto; margin-right: auto; max-width: 100%;
+}
+#erpmenu {
+	padding-top: 5%;
+}
+.tablesize {
+	width: 100%;
+}
